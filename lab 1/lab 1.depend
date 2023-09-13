@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694083489 source:e:\кемгу лабы\paralell\lab 1\main.cpp
+	<stdio.h>
+	"mpi.h"
+
+1314863558 c:\program files\mpich2\include\mpi.h
+	"mpio.h"
+	"mpicxx.h"
+
+1314863558 c:\program files\mpich2\include\mpio.h
+	"mpi.h"
+
+1314863558 c:\program files\mpich2\include\mpicxx.h
+	<stdio.h>
+
